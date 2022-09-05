@@ -1,6 +1,6 @@
 # WordPress Plugin Real Estate OS 
 * A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins
-A project to learn Wordpress Hooks, Actions and Filters
+* A project to learn Wordpress Hooks, Actions and Filters
 
 ## Contents
 Learn hooks:
@@ -8,12 +8,6 @@ Learn hooks:
 * `hook category`. Created custom field and show on list refs `class-category.php`
 * `hook posttype`. Created new posttype refs `class-post.php`
 * `hook meta_box_cb`. Created multi dropdown as child parent and use ajax change list of childs refs `scripts.js` and `class-real-estate-ajax.php`
-
-## Branches
-* Branch v1 as sample project to learn action and filter in Wordpress: taxonomy, post, category, meta box, filters
-* Maybe it will save your time as you begin to learn Wordpress.
-* Demo screen new post
-![Alt text](https://github.com/dearvn/real-estate-os/raw/main/newpost.png?raw=true "New post")
 
 ## Study Cases
 * 1. I want to add custom field to category and show on list in admin
