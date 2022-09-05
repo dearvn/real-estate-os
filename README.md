@@ -2,8 +2,7 @@
 * A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins
 * A project to learn Wordpress Hooks, Actions and Filters
 
-#Wordpress Coding Standards - PHPCS
-## Check and Fix issue Wordpress standard if you want to deploy on wordpress.org
+## Wordpress Coding Standards - Check and Fix issues before deploy on wordpress.org
 
 ** Install package to check Wordpress standard:**
 
