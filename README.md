@@ -2,10 +2,22 @@
 * A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins
 * A project to learn Wordpress Hooks, Actions and Filters
 
+#Wordpress Coding Standards - PHPCS
 ## Check and Fix issue Wordpress standard if you want to deploy on wordpress.org
-* Install package to check Wordpress standard: `composer install`
-* Check errors: `vendor/bin/phpcs --standard=WordPress .`
-* Auto fix errors: `vendor/bin/phpcbf --standard=WordPress .` or fix manually
+
+** Install package to check Wordpress standard:**
+```sh
+composer install
+```
+**Get all errors of the project:**
+````sh
+vendor/bin/phpcs --standard=WordPress .
+```
+**Fix all errors of the project:**
+```sh
+vendor/bin/phpcbf --standard=WordPress .
+````
+or fix manually
 
 ## Contents
 Learn hooks:
