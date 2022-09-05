@@ -1,6 +1,6 @@
 # WordPress Plugin Real Estate OS 
-
-A project to learn Wordpress Hooks. Sample data only support Vietnamese.
+* A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins
+A project to learn Wordpress Hooks, Actions and Filters
 
 ## Contents
 Learn hooks:
