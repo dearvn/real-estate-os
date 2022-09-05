@@ -6,17 +6,23 @@
 ## Check and Fix issue Wordpress standard if you want to deploy on wordpress.org
 
 ** Install package to check Wordpress standard:**
+
 ```sh
 composer install
 ```
+
 **Get all errors of the project:**
+
 ````sh
 vendor/bin/phpcs --standard=WordPress .
 ```
+
 **Fix all errors of the project:**
+
 ```sh
 vendor/bin/phpcbf --standard=WordPress .
 ````
+
 or fix manually
 
 ## Contents
