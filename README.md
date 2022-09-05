@@ -13,7 +13,7 @@ composer install
 
 **Get all errors of the project:**
 
-````sh
+```sh
 vendor/bin/phpcs --standard=WordPress .
 ```
 
@@ -21,7 +21,7 @@ vendor/bin/phpcs --standard=WordPress .
 
 ```sh
 vendor/bin/phpcbf --standard=WordPress .
-````
+```
 
 or fix manually
 
