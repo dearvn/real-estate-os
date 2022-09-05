@@ -4,7 +4,7 @@
 
 ## Wordpress Coding Standards - Check and Fix issues before deploy on wordpress.org
 
-** Install package to check Wordpress standard:**
+**Install package to check Wordpress standard:**
 
 ```sh
 composer install
