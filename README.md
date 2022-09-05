@@ -1,6 +1,6 @@
 # WordPress Plugin Real Estate OS 
 * A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins
-* A project to learn Wordpress Hooks, Actions and Filters
+* A project to train about Wordpress Hooks, Actions and Filters
 
 ## Wordpress Coding Standards - Check and Fix issues before deploy on wordpress.org
 
@@ -24,7 +24,29 @@ vendor/bin/phpcbf --standard=WordPress .
 
 or fix manually
 
-## Contents
+## Training
+### Create Admin Setting
+* Create a page admin setting parameters
+
+### Create custom taxonomy
+
+### Create custom post
+
+### Create custom field category
+
+### Create custom field of custom post
+
+### Hook metabox in post create/edit
+
+### Hook filter in custom post list
+
+### Create ajax action
+
+### Modify fields in post list
+
+### Create wp command
+
+
 Learn hooks:
 * `hook taxonomy`. Created new taxonomy and add to post refs `class-toxonomy.php`
 * `hook category`. Created custom field and show on list refs `class-category.php`
